@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "database": "innovation_db_development",
+    "password": "postgres",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "database": "innovation_db_test",
+    "password": "postgres",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "database": "innovation_db_production",
+    "password": "postgres",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
